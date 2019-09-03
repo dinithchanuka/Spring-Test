@@ -1,0 +1,3 @@
+https://spring.io/guides/gs/accessing-data-jpa/
+
+simple application that uses Spring Data JPA to save objects to a database and to fetch them
